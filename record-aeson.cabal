@@ -1,11 +1,11 @@
 name:
   record-aeson
 version:
-  0.1.0.0
+  0.1.0.1
 synopsis:
   Instances of "aeson" classes for the "record" types
 category:
-  Data, JSON, Record
+  Data, JSON, Records
 homepage:
   https://github.com/nikita-volkov/record-aeson
 bug-reports:
